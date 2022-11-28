@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rezaeiashtiani\\source\\repos\\testtt\\testtt\\testtt.csproj": {}
+    "C:\\Users\\rezaeiashtiani\\Desktop\\testproject\\testtt\\testtt\\testtt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rezaeiashtiani\\source\\repos\\testtt\\testtt\\testtt.csproj": {
+    "C:\\Users\\rezaeiashtiani\\Desktop\\testproject\\testtt\\testtt\\testtt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rezaeiashtiani\\source\\repos\\testtt\\testtt\\testtt.csproj",
+        "projectUniqueName": "C:\\Users\\rezaeiashtiani\\Desktop\\testproject\\testtt\\testtt\\testtt.csproj",
         "projectName": "testtt",
-        "projectPath": "C:\\Users\\rezaeiashtiani\\source\\repos\\testtt\\testtt\\testtt.csproj",
+        "projectPath": "C:\\Users\\rezaeiashtiani\\Desktop\\testproject\\testtt\\testtt\\testtt.csproj",
         "packagesPath": "C:\\Users\\rezaeiashtiani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rezaeiashtiani\\source\\repos\\testtt\\testtt\\obj\\",
+        "outputPath": "C:\\Users\\rezaeiashtiani\\Desktop\\testproject\\testtt\\testtt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rezaeiashtiani\\AppData\\Roaming\\NuGet\\NuGet.Config",
